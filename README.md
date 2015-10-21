@@ -78,7 +78,7 @@ parameter (directory/archive):
 
 参数（目录/档案路径）：
 
-	♂just requires workin' directory or archive location
+	just requires workin' directory or archive location
 	只需工作目录或者档案路径
 
 
