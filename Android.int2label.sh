@@ -23,17 +23,17 @@
 # 	-H or -h or --help: ask for help, just like other Linux programs
 # 
 # parameter (directory/archive): 
-# 	just requires workin' directory
+# 	just requires workin' directory or archive location
 # 
 # HAVE A NICE REVERSE ENGINEERIN', die♂deutsche♂Orthopädie out
 # 
 # ps. 
-# 	长发都tm是怪物
-# 	long hair girls are all fuckin' monsters
-# 	短发才tm是萌妹
-# 	short hair girls are all fuckin' moe girls
-# 	短发大法好
-# 	VIVA LA SHORT HAIR
+# 	长发都tm是怪♂物
+# 	long hair girls are all fuckin' mons♂ters
+# 	短发才tm是萌♂妹
+# 	short hair girls are all fuckin' moe♂girls
+# 	短发大♂法好
+# 	VIVA♂LA SHORT HAIR
 ########################################################################################################################################################################
 
 ########################                          Parameter Analysis                           ########################
@@ -94,7 +94,7 @@ do
 			echo "	-H or -h or --help: ask for help, just like other Linux programs"
 			echo
 			echo "parameter (fid/tid/folder/file): "
-			echo "	just requires workin' directory"
+			echo "	just requires workin' directory or archive location"
 			echo
 			echo "HAVE A NICE REVERSE ENGINEERIN', die♂deutsche♂Orthopädie out"
 			echo
